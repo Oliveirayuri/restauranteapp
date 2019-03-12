@@ -1,0 +1,38 @@
+
+/*Review*/
+.review-score{
+    font-size: 30px;
+    font-weight: bold;
+  }
+  
+  /*rstaurant detail*/
+  
+  .detail-footer{
+    padding:0px
+  }
+  
+  .detail-footer > a{
+    text-align: center;
+    font-size: 16px;
+    color: #555;
+    width:50%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  
+  .detail-footer > a:hover{
+    outline: none;
+    text-decoration: none;
+  }
+  
+  .detail-active {
+    border-bottom: 2px solid #1100ff;
+  }
+  
+  .has-error-block {
+    color: #4c00ff;
+  }
+  
+  .skin-red .wrapper, .skin-red .main-sidebar, .skin-red .left-side {
+    background-color: rgb(65, 46, 46);
+  }
